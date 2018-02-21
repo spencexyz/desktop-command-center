@@ -7,6 +7,7 @@ https://github.com/ptmt/react-native-macos
 
 Create a config.js file:
 
+```
 const WEBHOOK_URL = "";
 const FIREBASE_KEYS = {
 	apiKey: "",
@@ -21,3 +22,4 @@ export default {
   WEBHOOK_URL,
   FIREBASE_KEYS,
 };
+```
